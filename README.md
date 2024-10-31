@@ -4,12 +4,20 @@ A data-driven analysis focused on schools in Punjab Pakistan, aiming to identify
 
 ## 📑 Table of Contents
 
+0. [Dataset Overview](#dataset-overview)
 1. [Project Overview](#project-overview)
 2. [Technologies and Tools Used](#technologies-and-tools-used)
 3. [Dataset Overview](#dataset-overview)
 4. [Key Analysis Questions](#key-analysis-questions)
 5. [Insights and Findings](#insights-and-findings)
 6. [How to Use](#how-to-use)
+
+## 📊 Dataset Overview
+
+The dataset consists of school information, infrastructure details, and resource availability. Due to GitHub's file size limitation, the dataset is split into two parts:
+
+- `Schools_Dataset 0.0`
+- `Schools_Dataset 0.1`
 
 ## 📈 Project Overview
 
