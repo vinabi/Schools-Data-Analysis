@@ -78,4 +78,4 @@ The dataset consists of school information, infrastructure details, and resource
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/punjab-schools-analysis.git
+   git clone https://github.com/vinabi/Schools-Data-Analysis.git
