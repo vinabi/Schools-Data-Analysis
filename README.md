@@ -73,8 +73,7 @@ The dataset consists of school information, infrastructure details, and resource
 - **Pie Chart:** Proportion of schools with vacant vs. filled teaching and non-teaching posts.
 - **Bar Chart:** School distribution by educational level (primary, secondary, etc.).
 - **Table:** Comparison of schools based on ownership (public vs. private).
-- **Map Visualization (Power BI):** Highlighting schools with critical resource shortages.
-
+  
 ## 📂 How to Use
 
 1. **Clone the repository**:
